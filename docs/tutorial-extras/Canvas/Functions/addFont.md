@@ -7,6 +7,7 @@ $addFont[canvas;font;path]
 ```
 
 # Parameters 
+
 ---
-field : type
+field: type
 ---
